@@ -128,3 +128,38 @@ body {
     background-color: transparent !important;
 }
 /* End FAQ */
+/* Start Contact */
+.contact {
+    
+    background-color: #000000;
+    padding-top: 60px;
+}
+.custom-form-container {
+    background-color: #121519;
+    border-radius: 8px;
+}
+.custom-input {
+    background-color: transparent !important;
+    color: #fff !important;
+    border: none;
+    border-radius: 0;
+    border-bottom: 2px solid #ffffff;
+}
+.custom-input::placeholder {
+    color: #a0a0a0;
+}
+.custom-input:focus {
+    border-bottom: 2px solid #ff5722 !important;
+    box-shadow: none !important;
+}
+.btn-custom-orange {
+    border: 2px solid #ff5722;
+    color: #ffffff;
+    background-color: transparent;
+    transition: all 0.3s ease;
+}
+.btn-custom-orange:hover {
+    background-color: #ff5722;
+    color: #ffffff;
+}
+/* End Contact */
