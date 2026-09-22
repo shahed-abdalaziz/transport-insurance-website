@@ -163,3 +163,12 @@ body {
     color: #ffffff;
 }
 /* End Contact */
+.footer {
+    color: #ffffff;
+    background-color: #333333;
+   
+}
+.end-line-footer {
+    margin-top: 40px;
+}
+/* End Footer */
