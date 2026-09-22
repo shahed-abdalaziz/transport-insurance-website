@@ -2,8 +2,30 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}s
+}
 
 body {
     background-color: #000000;
 }
+
+/* Start Header */
+.header {
+    background-image: url("pexels-photo-3136673.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.search:focus {
+    box-shadow: none;
+}
+
+.search::placeholder {
+    color: gray;
+}
+
+.h1-header {
+    padding-top: 100px;
+}
+
+/* End Header */
