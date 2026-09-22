@@ -107,3 +107,24 @@ body {
 }
 
 /* End About */
+/* Start FAQ */
+.fac {
+    padding-top: 80px;
+    background-color: #000000;
+    
+}
+
+.accordion-flush .accordion-item {
+    background-color: transparent !important;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
+}
+.accordion-flush .accordion-button {
+    background-color: transparent !important;
+    color: #ffffff !important;
+    box-shadow: none !important;
+}
+.accordion-flush .accordion-body {
+    color: #ffffff !important;
+    background-color: transparent !important;
+}
+/* End FAQ */
