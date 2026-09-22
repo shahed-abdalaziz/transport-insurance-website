@@ -29,3 +29,81 @@ body {
 }
 
 /* End Header */
+/* Start About */
+.about {
+
+    background-color: #000000;
+}
+
+.icon-box {
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background-color: #f2552c;
+}
+
+.btn-read-more {
+    color: #f2552c;
+    border: 2px solid #f2552c;
+    transition: all 0.3s ease;
+}
+
+.btn-read-more:hover {
+    background-color: #f2552c;
+    color: #ffffff;
+    border-color: #f2552c;
+}
+
+.p-about {
+    line-height: 1.7;
+    font-size: 1.1rem;
+}
+
+.box1-orange {
+    height: auto;
+    min-height: 100%;
+    background-color: #f2552c;
+}
+
+.h4-about {
+    padding-top: 20px;
+}
+
+.li-about {
+    line-height: 1.6;
+}
+
+.h1-about {
+    padding-top: 20px;
+
+}
+
+.h2-about {
+    margin-top: 20px;
+}
+
+.good-word {
+    color: #f2552c;
+}
+
+.box2-orange {
+    background-color: #f2552c;
+    height: auto;
+    width: 80%;
+    border-radius: 8px;
+}
+
+.card-text {
+    font-size: 1rem;
+    line-height: 1.6;
+}
+
+.img-right {
+    margin-top: 0;
+    max-width: 100%;
+    width: 380px;
+    height: 380px;
+    object-fit: cover;
+}
+
+/* End About */
