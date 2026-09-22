@@ -10,7 +10,7 @@ body {
 
 /* Start Header */
 .header {
-    background-image: url("pexels-photo-3136673.jpeg");
+    background-image: url(" ./imgs/pexels-photo-3136673.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -111,33 +111,38 @@ body {
 .fac {
     padding-top: 80px;
     background-color: #000000;
-    
+
 }
 
 .accordion-flush .accordion-item {
     background-color: transparent !important;
     border-bottom: 1px solid rgba(255, 255, 255, 0.3) !important;
 }
+
 .accordion-flush .accordion-button {
     background-color: transparent !important;
     color: #ffffff !important;
     box-shadow: none !important;
 }
+
 .accordion-flush .accordion-body {
     color: #ffffff !important;
     background-color: transparent !important;
 }
+
 /* End FAQ */
 /* Start Contact */
 .contact {
-    
+
     background-color: #000000;
     padding-top: 60px;
 }
+
 .custom-form-container {
     background-color: #121519;
     border-radius: 8px;
 }
+
 .custom-input {
     background-color: transparent !important;
     color: #fff !important;
@@ -145,30 +150,37 @@ body {
     border-radius: 0;
     border-bottom: 2px solid #ffffff;
 }
+
 .custom-input::placeholder {
     color: #a0a0a0;
 }
+
 .custom-input:focus {
     border-bottom: 2px solid #ff5722 !important;
     box-shadow: none !important;
 }
+
 .btn-custom-orange {
     border: 2px solid #ff5722;
     color: #ffffff;
     background-color: transparent;
     transition: all 0.3s ease;
 }
+
 .btn-custom-orange:hover {
     background-color: #ff5722;
     color: #ffffff;
 }
+
 /* End Contact */
 .footer {
     color: #ffffff;
     background-color: #333333;
-   
+
 }
+
 .end-line-footer {
     margin-top: 40px;
 }
+
 /* End Footer */
